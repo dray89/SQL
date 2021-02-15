@@ -113,3 +113,5 @@ dmypy.json
 # Pyre type checker
 .pyre/
 *.sql
+Historical_DOB_Permit_Issuance.csv
+2010+Census+Population+By+Zipcode+(ZCTA).csv
